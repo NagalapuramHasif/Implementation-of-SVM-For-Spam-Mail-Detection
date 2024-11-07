@@ -23,8 +23,8 @@ Step 6: End the program.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: MANGARI DEERAJ
-RegisterNumber:  212223100031
+Developed by:NAGALAPURAM HASIF
+RegisterNumber:  212223100036
 */
 
 import pandas as pd
@@ -80,4 +80,4 @@ data.isnull:
 ![image](https://github.com/user-attachments/assets/737a4472-7e3d-486a-bb0a-fb7cf6b7e4d7)
 
 ## Result:
-Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
+Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming..
